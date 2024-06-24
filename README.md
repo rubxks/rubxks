@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **LLM**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Anaysis**
 
 - 📫 How to reach me **sahdeepak19@gmail.com**
 
