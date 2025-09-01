@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Sah</h1>
-<h3 align="center">An aspiring Data Scientist</h3>
+<h3 align="center">NLP Data Scientist</h3>
 
 - 🌱 I’m currently learning **LLM**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Data Anaysis**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP Data Scientist, GenAI Engineer**
 
 - 📫 How to reach me **sahdeepak19@gmail.com**
 
